@@ -1,6 +1,6 @@
 # Amazon_prime_PowerBi_Dashboard
 This repository contains a dynamic Power BI dashboard for Amazon Prime data analysis. The dashboard provides various insights into the content available on Amazon Prime, including details on genres, ratings, release years, and more.
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ## Features
 
